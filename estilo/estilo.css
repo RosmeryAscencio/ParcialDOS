@@ -1,0 +1,62 @@
+body 
+{
+    background-color: lightblue;
+   }
+   h1 {
+    font-family: 'Delicious Handrawn', cursive;
+    color: rgb(25, 16, 82);
+    text-align: center;
+    font-size: 80px;
+
+   }
+   p {
+   font-family: 'Roboto Serif', serif;
+    font-size: 20px;
+   }
+        
+   .angela{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color: rgb(121, 15, 173);
+    text-align: center;
+    font-size: 15px;
+
+   }
+
+   h3{
+    font-family: 'Delicious Handrawn', cursive;
+    color: rgb(239, 238, 243);
+    text-align: center;
+    font-size: 60px;
+   }
+
+   h2{
+    font-family: 'Delicious Handrawn', cursive;
+    color: rgb(239, 238, 243);
+    text-align: center;
+    font-size: 60px;
+   }
+
+   .centertable{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   }
+
+   
+   h4{
+    font-family: 'Delicious Handrawn', cursive;
+    color: rgb(61, 92, 233);
+    text-align: center;
+    font-size: 60px;
+   }
+
+   img{
+    display: block;
+    margin: auto;
+   }
+   
+   a{
+    text-align: center;
+    display: block;
+    margin: auto;
+   }
